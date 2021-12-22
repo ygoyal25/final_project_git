@@ -1,0 +1,14 @@
+git init --- Initializes an empty repository (folder) with git
+
+git status --- Tells the state of the version contol / folder (what is tracked, untracked, staged)
+
+git add <fileName> --- adds the file to commit
+git add . --- adds everything in current folder
+
+git commit -m "<message>" --- creates a commit with unique commit hash / id
+
+git log --- shows commit history
+
+git checkout <commit hash> --- takes you back to the commit
+
+git checkout <branch_name> --- takes you to the branch latest commit
