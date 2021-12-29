@@ -13,6 +13,8 @@ git checkout <commit hash> --- takes you back to the commit
 
 git checkout <branch_name> --- takes you to the branch latest commit
 
+git checkout -b <new_branch_name> --- creates a new branch and checkout to that branch
+
 ------------- Github --------------
 
 Create a Repo on Github
