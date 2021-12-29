@@ -12,3 +12,14 @@ git log --- shows commit history
 git checkout <commit hash> --- takes you back to the commit
 
 git checkout <branch_name> --- takes you to the branch latest commit
+
+------------- Github --------------
+
+Create a Repo on Github
+
+Add a remote
+git remote add origin <http://>
+
+git remote -v ---- Show the remote present for git repo on local
+
+git push --- push the code to remote repository
